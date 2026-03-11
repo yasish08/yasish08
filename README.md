@@ -1,18 +1,18 @@
 # Hi 👋 I'm Yasish
 
 💻 Computer Science student passionate about **Software Development, Data Structures & Algorithms, and Web Development**.
-I enjoy building applications and solving challenging problems through **clean code and efficient algorithms**.
+I enjoy solving challenging problems and building applications with **clean code and efficient algorithms**.
 
 ---
 
 # 🚀 About Me
 
 * 🎓 Computer Science Engineering student
-* 💻 Currently focusing on **Data Structures & Algorithms**
+* 💻 Practicing **Data Structures & Algorithms daily**
 * 🌐 Learning **Full Stack Web Development**
-* 🧠 Practicing problem solving on **LeetCode**
-* 📈 Improving skills in **backend development and system design**
-* ⚡ Goal: Become a **skilled software developer**
+* 🧠 Solving problems on **LeetCode**
+* 📈 Improving **problem-solving and backend development skills**
+* ⚡ Goal: Become a **skilled Software Developer**
 
 ---
 
@@ -20,7 +20,7 @@ I enjoy building applications and solving challenging problems through **clean c
 
 `Data Structures` • `Algorithms` • `Object Oriented Programming` • `Database Management Systems` • `Computer Networks`
 
-These fundamentals help me build **efficient and scalable software solutions**.
+These concepts help me design **efficient and scalable software systems**.
 
 ---
 
@@ -30,7 +30,7 @@ These fundamentals help me build **efficient and scalable software solutions**.
 <img src="https://skillicons.dev/icons?i=c,cpp,js"/>
 </p>
 
-* **C / C++** → Problem solving and DSA
+* **C / C++** → Problem solving and algorithm implementation
 * **JavaScript** → Web development and application logic
 
 ---
@@ -41,7 +41,7 @@ These fundamentals help me build **efficient and scalable software solutions**.
 <img src="https://skillicons.dev/icons?i=html,css,js"/>
 </p>
 
-I use these technologies to build **interactive and responsive web applications**.
+I use these technologies to build **responsive and interactive web applications**.
 
 ---
 
@@ -61,36 +61,17 @@ I use these technologies to build **interactive and responsive web applications*
 
 * Practicing **DSA problems daily**
 * Improving **algorithmic thinking**
-* Building **small web projects**
-* Learning **backend development concepts**
+* Building **small web development projects**
+* Learning **backend development fundamentals**
 
----
-
-# 📂 Featured Projects
-
-### 📝 To-Do App
-
-A simple task management application that allows users to:
-
-* Add tasks
-* Delete tasks
-* Save tasks using **local storage**
-
-### 🌦 Weather App
-
-A web application that fetches and displays **real-time weather data using APIs**.
-
-More projects coming soon as I continue learning.
-
----
 
 # 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yasish08&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasish08&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -100,7 +81,7 @@ More projects coming soon as I continue learning.
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasish08&theme=tokyonight"/>
 
 </p>
 
@@ -108,16 +89,10 @@ More projects coming soon as I continue learning.
 
 # 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yasish08&theme=tokyo-night"/>
 
 ---
 
-# 🎯 Goals for 2026
-
-* Solve **300+ DSA problems**
-* Build **5+ real-world projects**
-* Learn **backend development**
-* Contribute to **open source**
 
 ---
 

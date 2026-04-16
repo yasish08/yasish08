@@ -75,18 +75,6 @@ I use these technologies to build **responsive and interactive web applications*
 
 </p>
 
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasish08&theme=tokyonight"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasish08&theme=tokyo-night"/>
